@@ -4,7 +4,7 @@ libreria estandar por medio de la funcion prinft()
 @jaime vidal
 
 */
-
+#include <stdio.h>
  int main()
 {
 	/* printf imprime por pantalla el texto contenido dentro 
