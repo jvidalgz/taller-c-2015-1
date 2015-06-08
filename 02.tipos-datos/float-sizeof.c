@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
 	programa que muestra el espacio de almacenamiento en bytes 
-	para una variable float y otra variable
+	para una variable float y otra variable double
 **/
 
 int main(){
