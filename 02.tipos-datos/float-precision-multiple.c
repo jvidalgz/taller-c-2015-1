@@ -16,10 +16,7 @@ int main() {
   printf("Imprimiendo 3.141592 usando formato %%4.3f \t  %4.3f\n", x);
   printf("Imprimiendo 3.141592 usando formato %%5.4f \t  %5.4f\n", x);
   printf("Imprimiendo 3.141592 usando formato %%6.5f \t  %6.5f\n", x);
-  printf("Imprimiendo 3.141592 usando formato %%09.3f    %09.3f\n", x);
-  printf("Imprimiendo 3.141592 usando formato %%-09.3f       %-09.3f\n", x);
-  printf("Imprimiendo 3.141592 usando formato %%9.3f     %9.3f\n", x);
-  printf("Imprimiendo 3.141592 usando formato %%-9.3f    %-9.3f\n", x);
+  
   
   return 0;
 }
